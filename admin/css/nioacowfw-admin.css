@@ -1,0 +1,35 @@
+.container { max-width:99%;}
+.container .card  {padding: 0px;
+  max-width: 100%;}
+.card-header  {}
+.card-header  h3{ text-transform:uppercase;}
+.table thead th, td { font-size:14px;}
+#nicacowfw .order-card {
+color: #fff;
+}
+
+#nicacowfw  .bg-c-blue {
+  background: linear-gradient(45deg,#4099ff,#73b4ff);
+}
+#nicacowfw .bg-c-blue {
+background: linear-gradient(45deg,#4099ff,#73b4ff);
+}
+#nicacowfw .bg-c-green {
+background: linear-gradient(45deg,#2ed8b6,#59e0c5);
+}
+
+#nicacowfw .bg-c-yellow {
+background: linear-gradient(45deg,#FFB64D,#ffcb80);
+}
+
+#nicacowfw .bg-c-pink {
+background: linear-gradient(45deg,#FF5370,#ff869a);
+}
+
+/*Admin Menu whats app icon*/
+icon16.icon-media:before, #adminmenu .toplevel_page_nioacowfw-dashboard div.wp-menu-image:before {
+  font-family:"FontAwesome" !important;
+  content: "\f232";
+  font-style:normal;
+  font-weight:400;
+}

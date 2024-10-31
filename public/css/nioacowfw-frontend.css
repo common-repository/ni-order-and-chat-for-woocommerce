@@ -1,0 +1,37 @@
+.nioacowfw_chat_link .nioacowfw_whatsaap_btn{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	/*background-color:#25d366;*/
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+	z-index:99999;
+}
+.nioacowfw_chat_link .left_top{
+	top:40px;
+	left:40px;
+}
+
+.nioacowfw_chat_link .left_bottom{
+	bottom:40px;
+	left:40px;
+
+}
+.nioacowfw_chat_link .right_bottom{
+	bottom:40px;
+	right:40px;
+
+}
+.nioacowfw_chat_link .right_top{
+	top:40px;
+	right:40px;
+}
+.nioacowfw_chat_link .chat_link_float{
+	margin-top:16px;
+	
+}
